@@ -41,6 +41,8 @@ One Caveat, the coins can be found and imported into MetaMask but remain invisib
 !["imported tokens image"](./Starter_Code/Images/KaseiCoins_imported.png)
 !["after importing image"](./Starter_Code/Images/import_ganache_Meta.png)
 
+## Video of contracts being tested
+
 In the video link below, you can see
 The contract is deployed onto the local Ganache blockchain. It is compiled and deployed via Remix IDE and this is connected to Metamask using Ganache test wallets.
 Functionality of the crowdsale is shown via buying new tokens and reviewing the coresponding account balance movements. 
