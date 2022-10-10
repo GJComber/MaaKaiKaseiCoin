@@ -20,7 +20,6 @@ Ganache wallets are connected to MetaMask and Remix is also connected to Metamas
 The Open Zeppelin library for this setup is Version 2.5
 
 
-
 !["KaseiCoin in Remix image"](./Starter_Code/Images/KaseiCoin_in_Remix.png)
 !["Meta in Remix image"](./Starter_Code/Images/Metamask_on_Remix.png)
 !["Ganache Account image"](./Starter_Code/Images/Ganache_account_and_private_key_link.png)
