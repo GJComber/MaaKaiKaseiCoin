@@ -20,7 +20,8 @@ Ganache wallets are connected to MetaMask and Remix is also connected to Metamas
 The Open Zeppelin library for this setup is Version 2.5
 
 
-!["KaseiCoin in Remix image"](./Starter_Code/Images/Saved_KaseiCoin.png)
+
+!["KaseiCoin in Remix image"](./Starter_Code/Images/KaseiCoin_in_Remix.png)
 !["Meta in Remix image"](./Starter_Code/Images/Metamask_on_Remix.png)
 !["Ganache Account image"](./Starter_Code/Images/Ganache_account_and_private_key_link.png)
 !["Ganache in Meta image"](./Starter_Code/Images/Meta_showing_Ganache_linked.png)
@@ -30,6 +31,8 @@ The Open Zeppelin library for this setup is Version 2.5
 
 The contracts performed as expected. 
 Ganache and Metamask worked well with this project.
+
+You can see 14 Ether worth of Wei raised after this recent transaction
 !["Wei value raised image"](./Starter_Code/Images/WeiRaised.png) 
 
 One Caveat, the coins can be found and imported into MetaMask but remain invisible from there
